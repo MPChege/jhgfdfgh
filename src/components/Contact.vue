@@ -3,7 +3,7 @@
     <img alt="Our Logo" src="../assets/logo.png">
     <div id="contact">
     <h2>Contact us</h2>
-    <p>Contact us by phone on {{ phoneNumber }}, or via our address at 123 Fake Street,
+    <p>Contact us by my phone on {{ phoneNumber }}, or via our address at 123 Fake Street,
     New York City.</p>
     </div>
     <footer>
